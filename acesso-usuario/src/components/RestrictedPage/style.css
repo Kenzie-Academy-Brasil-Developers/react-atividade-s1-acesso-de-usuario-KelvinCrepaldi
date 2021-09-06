@@ -1,0 +1,26 @@
+.container {
+  width: 700px;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 40px;
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.8);
+}
+
+button {
+  font-size: 30px;
+  padding: 20px;
+  width: 300px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 1px 1px 5px #000;
+}
+
+button:hover {
+  background-color: rgb(165, 165, 165);
+}
+
+p {
+  font-size: 40px;
+  padding: 30px;
+  text-shadow: 2px 2px 3px #000;
+}
